@@ -1,10 +1,12 @@
+
+## To the grader : Please view all of my R programs and PNG Plots in the figure folder. Thank you very much.
 ## Introduction
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
-datasets. In particular, we will be using the "Individual household
-electric power consumption Data Set" which I have made available on
+datasets. In particular, I will be using the "Individual household
+electric power consumption Data Set" which it is on
 the course web site:
 
 
@@ -61,4 +63,4 @@ functions.
 ## Making Plots
 
 
-Please check for all of my R codes and my plots in the figure folder.
+To the grader : Please check for all of my R codes and my plots in the figure folder. Thank you.
