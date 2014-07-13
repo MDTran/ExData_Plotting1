@@ -1,5 +1,5 @@
 
-## To the grader : Please view all of my R programs and PNG Plots in the figure folder. Thank you very much.
+## To the grader : Please view all of my R programs and Plots located in the figure folder. Thank you very much.
 ## Introduction
 
 This assignment uses data from
